@@ -1,0 +1,7 @@
+{
+  "name": "SOA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
